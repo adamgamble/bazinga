@@ -30,3 +30,160 @@ Request received: /
 Request received: /favicon.ico
 Request received: /
 Request received: /favicon.ico
+Bazinga Server started on localhost:3000
+Request received: /
+Bazinga Server started on localhost:3000
+Request received: /
+Request received: /favicon.ico
+Request received: /test
+Request received: /favicon.ico
+Bazinga Server started on localhost:3000
+Request received: /test
+Rendered 404
+Request received: /favicon.ico
+Rendered 404
+Request received: /
+Response sent: Hello Root
+Request received: /favicon.ico
+Rendered 404
+Bazinga Server started on localhost:3000
+Request received: /
+Response sent: Page not FoundHello Root
+Request received: /favicon.ico
+Response sent: Page not Found
+Request received: /
+Response sent: Page not FoundHello Root
+Request received: /favicon.ico
+Response sent: Page not Found
+Request received: /
+Response sent: Page not FoundHello Root
+Request received: /favicon.ico
+Response sent: Page not Found
+Request received: /test
+Response sent: Page not Found
+Request received: /favicon.ico
+Response sent: Page not Found
+Request received: /
+Response sent: Page not FoundHello Root
+Request received: /favicon.ico
+Response sent: Page not Found
+Bazinga Server started on localhost:3000
+Request received: /
+Bazinga Server started on localhost:3000
+Request received: /
+Response sent: Page not FoundHello Root
+Request received: /favicon.ico
+Response sent: Page not Found
+Bazinga Server started on localhost:3000
+Request received: /
+Response sent: Page not FoundHello Root
+Request received: /favicon.ico
+Response sent: Page not Found
+Request received: /
+Response sent: Page not FoundHello Root
+Request received: /favicon.ico
+Response sent: Page not Found
+Bazinga Server started on localhost:3000
+Request received: /
+Event Fired! web_request
+Response sent: Page not FoundHello Root
+Request received: /favicon.ico
+Event Fired! web_request
+Response sent: Page not Found
+Bazinga Server started on localhost:3000
+Request received: /
+Event Fired! web_request - {:path=>"/"}
+Response sent: Page not FoundHello Root
+Request received: /favicon.ico
+Event Fired! web_request - {:path=>"/favicon.ico"}
+Response sent: Page not Found
+Request received: /
+Event Fired! web_request - {:path=>"/"}
+Response sent: Page not FoundHello Root
+Request received: /favicon.ico
+Event Fired! web_request - {:path=>"/favicon.ico"}
+Response sent: Page not Found
+Request received: /test
+Event Fired! web_request - {:path=>"/test"}
+Response sent: Page not Found
+Request received: /favicon.ico
+Event Fired! web_request - {:path=>"/favicon.ico"}
+Response sent: Page not Found
+Bazinga Server started on localhost:3000
+Request received: /test
+Event Fired! web_request - {:path=>"/test"}
+Response sent: Page not Found
+Request received: /favicon.ico
+Event Fired! web_request - {:path=>"/favicon.ico"}
+Response sent: Page not Found
+Bazinga Server started on localhost:3000
+Request received: /test
+Event Fired! web_request - {:path=>"/test"}
+Response sent: Page not Found
+Request received: /favicon.ico
+Event Fired! web_request - {:path=>"/favicon.ico"}
+Response sent: Page not Found
+Bazinga Server started on localhost:3000
+Request received: /
+Event Fired! web_request - {:path=>"/"}
+Response sent: Page not FoundHello Root
+Request received: /favicon.ico
+Event Fired! web_request - {:path=>"/favicon.ico"}
+Response sent: Page not Found
+Request received: /
+Event Fired! web_request - {:path=>"/"}
+Response sent: Page not FoundHello Root
+Request received: /favicon.ico
+Event Fired! web_request - {:path=>"/favicon.ico"}
+Response sent: Page not Found
+Bazinga Server started on localhost:3000
+Request received: /
+Event Fired! web_request - {:path=>"/"}
+Response sent: Page not FoundHello Root
+Request received: /favicon.ico
+Event Fired! web_request - {:path=>"/favicon.ico"}
+Response sent: Page not Found
+Bazinga Server started on localhost:3000
+Request received: /
+Event Fired! web_request - {:path=>"/"}
+Response sent: Page not FoundHello Root
+Request received: /favicon.ico
+Event Fired! web_request - {:path=>"/favicon.ico"}
+Response sent: Page not Found
+Bazinga Server started on localhost:3000
+Request received: /
+Event Fired! web_request - {:path=>"/"}
+Response sent: Page not FoundHello Root
+Request received: /favicon.ico
+Event Fired! web_request - {:path=>"/favicon.ico"}
+Response sent: Page not Found
+Bazinga Server started on localhost:3000
+Request received: /
+Event Fired! web_request - {:path=>"/"}
+Response sent: Page not FoundHello Root
+Request received: /favicon.ico
+Event Fired! web_request - {:path=>"/favicon.ico"}
+Response sent: Page not Found
+Bazinga Server started on localhost:3000
+Request received: /
+Event Fired! web_request - {:path=>"/"}
+Response sent: Page not FoundHello Root
+Request received: /favicon.ico
+Event Fired! web_request - {:path=>"/favicon.ico"}
+Response sent: Page not Found
+Bazinga Server started on localhost:3000
+Request received: /
+Event Fired! web_request - {:path=>"/"}
+Response sent: Hello Root
+Request received: /favicon.ico
+Event Fired! web_request - {:path=>"/favicon.ico"}
+Rendered 404
+Event Fired! four_oh_four - {}
+Request received: /test
+Event Fired! web_request - {:path=>"/test"}
+Rendered 404
+Event Fired! four_oh_four - {}
+Request received: /favicon.ico
+Event Fired! web_request - {:path=>"/favicon.ico"}
+Rendered 404
+Event Fired! four_oh_four - {}
